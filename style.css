@@ -1,0 +1,54 @@
+    body {
+        font-size: large;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+        border: 1px solid black;
+        padding: 10px;
+        margin-left: 35%;
+        margin-top: 230px;
+        border-radius: 4px;
+        background-color: gainsboro;
+    }
+    
+    h1 {
+        margin-left: 40%;
+        background-color: gainsboro;
+        color: white;
+        width: 350px;
+    }
+    
+    span {
+        height: 60px;
+        width: auto;
+    }
+    
+    #btn {
+        font: inherit;
+        padding: 0.5rem 1.5rem;
+        border: 1px solid #00329e;
+        background: #00329e;
+        color: white;
+        border-radius: 6px;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
+        cursor: pointer;
+        margin: 0 0.5rem;
+    }
+    
+    input {
+        height: 40px;
+        /* color: white; */
+        border: 2px solid blue;
+        margin: 5px;
+    }
+    /* 
+#btn {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 4px;
+    margin-left: 40%;
+} */
