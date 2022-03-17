@@ -1,47 +1,4 @@
-// let fake = "Glorious Ladies";
-// console.log(fake);
-// const diadem = "treasure";
-// console.log(diadem);
-// let isApproved = true;
-// let firstName = undefined;
-// let date = null;
-// let girl = {
-//     name: "Emily",
-//     age: 23,
-//     gender: "female"
-
-
-// };
-// console.log(typeof date)
-
-// girl.name = "Collins";
-// girl['name'] = "Philip";
-
-// function view(man) {
-//     console.log(man);
-// }
-
-// console.log(view("Welcome to charis group"));
-
-// function square(number) {
-//     return number * number;
-// }
-// let num = square(2);
-// console.log(num);
-
-// let i = 0;
-// do {
-//     console.log(i);
-//     i++;
-// } while (i < 10);
-
-
-// let j;
-// for (j = 0; j < 7; j++) {
-//     console.log(j + " is number " + j);
-
-// }
-
+// JAVASCRIPT OBJECTS AND OTHER JS TRICKS
 
 // let game = prompt("Enter your favorite game");
 // switch (game) {
@@ -57,8 +14,6 @@
 //     default:
 //         console.log("match not found");
 // }
-
-
 
 // NAMED FUNCTION
 function Sam(q, o) {
