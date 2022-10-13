@@ -1,3 +1,4 @@
+//TRICKS
 console.log('tricks')
 let arr = []
 
